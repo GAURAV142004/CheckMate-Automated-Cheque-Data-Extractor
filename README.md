@@ -44,7 +44,7 @@ cd CheckMate-Cheque-Processor
 Step 2: Set Up a Virtual Environment
 
 python -m venv venv
-source venv/bin/activate   # On Windows: venv\\Scripts\\activate
+source venv/bin/activate  
 ---
 
 Step 3: Install Dependencies
