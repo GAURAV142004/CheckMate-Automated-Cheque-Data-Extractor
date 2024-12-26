@@ -34,22 +34,22 @@ With its ability to extract critical cheque data, ensure secure user authenticat
 ## ⚙️ Installation
 Follow these steps to set up and run the project locally:
 
-### Step 1: Clone the Repository
+## Step 1: Clone the Repository
 ```bash
 git clone https://github.com/your-username/CheckMate-Cheque-Processor.git
 cd CheckMate-Cheque-Processor
 
 
-### Step 2: Set Up a Virtual Environment
+## Step 2: Set Up a Virtual Environment
 ```bash
 python -m venv venv
 source venv/bin/activate   # On Windows: venv\\Scripts\\activate
 
-### Step 3: Install Dependencies
+## Step 3: Install Dependencies
 ```bash
 pip install -r requirements.txt
 
-### Step 4: Set Up Environment Variables
+## Step 4: Set Up Environment Variables
 - Create a .env file in the root directory.
 - Add the required variables:
 ```bash
@@ -57,7 +57,7 @@ GOOGLE_API_KEY=your-google-api-key
 SECRET_KEY=your-secret-key
 MONGO_URI=your-mongo-db-connection-string
 
-### step 5: Run the application
+## step 5: Run the application
 ```bash
 python main.py
 
