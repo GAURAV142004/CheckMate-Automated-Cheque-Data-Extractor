@@ -48,7 +48,6 @@ source venv/bin/activate
 ---
 
 Step 3: Install Dependencies
-
 pip install -r requirements.txt
 ---
 
